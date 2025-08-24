@@ -26,3 +26,4 @@ This event was instrumental in building my hands-on skills in several key areas:
 ### Assets
 ![Certificate-Farrier152_page-0001](https://github.com/user-attachments/assets/c6fe10b1-ca2f-4238-8d42-ef50123f81ee)
 <img width="1304" height="719" alt="image" src="https://github.com/user-attachments/assets/a44255f8-647f-4a20-89c1-d3958bc6f131" />
+<img width="1318" height="781" alt="image" src="https://github.com/user-attachments/assets/01fbc93c-9a9b-478e-863d-e09d66ab895a" />
