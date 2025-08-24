@@ -26,7 +26,7 @@ This table highlights the events for which I have detailed records, certificates
 | **Apr 2025** | **Triwizard Hunt (DSU Techflix CTF)**    | `Diamond_Dogs`   | `5th / ~55`          | [Certificate](./2025-DSU-TriwizardHunt/README.md)             |
 | **Dec 2024** | **TryHackMe Advent of Cyber 2023**       | `N/A (Solo)`     | `100% Complete`      | [Certificate](./2024-THM-AdventOfCyber/README.md)             |
 | **Apr 2024** | **Dawg CTF 2023**                        | `[Your Team Name]` | `86th / 760`         | [Scoreboard](./2025-DawgCTF-UMBC/README.md)                        |
-| **Dec 2024** | **HTB Binary Badlands (University CTF)** | `[Your Team Name]` | `267th / ~1100`      | [Scoreboard](./2024-HTB-UniversityCTF-BinaryBadlands/README.md)             |
+| **Dec 2024** | **HTB Binary Badlands (University CTF)** | `[Your Team Name]` | `267th / ~1100`      | [Scoreboard](./2024-HTB-UniversityCTF-BinaryBadlandsREADME.md)             |
 
 ---
 
