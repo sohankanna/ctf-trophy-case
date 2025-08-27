@@ -21,6 +21,7 @@ This table highlights the events for which I have detailed records, certificates
 
 | Date       | Event Name                               | Team Name        | Rank / Score         | View Details & Proof                                          |
 | :--------- | :--------------------------------------- | :--------------- | :------------------- | :------------------------------------------------------------ |
+| **Aug 2025** | **Lexington Informatics Tournament CTF** | `Diamond_Dogs`   | `74th / 1000`        | [View Details](./2025-LIT-CTF/README.md)        
 | **Jul 2025** | **KPMG Cyber CTF 2025**                  | `N/A (Individual)`| `Completed / 105 pts`| [View Details](./2025-KPMG-CTF/README.md)                     |
 | **Jun 2025** | **BSides Bangalore Binary Blitz Battle** | `Diamond_Dogs`   | `5th / ~50`          | [Certificate & Data](./2025-BSides-Bangalore/README.md)       |
 | **Apr 2025** | **Triwizard Hunt (DSU Techflix CTF)**    | `Diamond_Dogs`   | `5th / ~55`          | [Certificate](./2025-DSU-TriwizardHunt/README.md)             |
