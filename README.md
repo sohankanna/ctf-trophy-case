@@ -25,8 +25,8 @@ This table highlights the events for which I have detailed records, certificates
 | **Jul 2025** | **KPMG Cyber CTF 2025**                  | `N/A (Individual)`| `Completed / 105 pts`| [View Details](./2025-KPMG-CTF/README.md)                     |
 | **Jun 2025** | **BSides Bangalore Binary Blitz Battle** | `Diamond_Dogs`   | `5th / ~50`          | [Certificate & Data](./2025-BSides-Bangalore/README.md)       |
 | **Apr 2025** | **Triwizard Hunt (DSU Techflix CTF)**    | `Diamond_Dogs`   | `5th / ~55`          | [Certificate](./2025-DSU-TriwizardHunt/README.md)             |
-| **Apr 2025** | **Dawg CTF 2023**                        | `Diamond_Dogs` | `86th / 760`         | [Scoreboard](./2025-DawgCTF-UMBC/README.md)                        |
-| **Dec 2024** | **TryHackMe Advent of Cyber 2023**       | `N/A (Solo)`     | `100% Complete`      | [Certificate](./2024-THM-AdventOfCyber/README.md)             |
+| **Apr 2025** | **Dawg CTF 2025**                        | `Diamond_Dogs` | `86th / 760`         | [Scoreboard](./2025-DawgCTF-UMBC/README.md)                        |
+| **Dec 2024** | **TryHackMe Advent of Cyber 2024**       | `N/A (Solo)`     | `100% Complete`      | [Certificate](./2024-THM-AdventOfCyber/README.md)             |
 | **Dec 2024** | **HTB Binary Badlands (University CTF)** | `Diamond_Dogs` | `267th / ~1100`      | [Scoreboard](./2024-HTB-UniversityCTF-BinaryBadlandsREADME.md)   |
 
 ---
