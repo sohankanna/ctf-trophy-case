@@ -8,8 +8,8 @@ For detailed technical analysis and solutions, please see my separate **[CTF Wri
 
 ## 📊 At a Glance
 
-- **Total Events Documented:** 6
-- **Team Competitions:** 4
+- **Total Events Documented:** 7
+- **Team Competitions:** 5
 - **Individual Events:** 2
 - **Best Team Rank:** 5th / ~50 teams
 
