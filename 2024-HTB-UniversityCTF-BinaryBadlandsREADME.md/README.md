@@ -1,6 +1,6 @@
 # HTB Binary Badlands (University CTF)
 
-- **Date:** October 28-30, 2022
+- **Date:** December 13-15, 2024
 - **Format:** Jeopardy-style, University Team CTF
 - **Team:** Diamond_Dogs
 - **Final Rank:** 267th out of ~1100 teams
