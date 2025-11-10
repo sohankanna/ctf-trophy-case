@@ -1,6 +1,6 @@
 # Cryovault CTF by PES ISFCR Club
 
-## 🚀 Competition Overview
+## Competition Overview
 
 *   **Organizer:** PES ISFCR Club
 *   **Format:** Jeopardy-style, Team CTF (multi-stage: Qualifiers & Finals)
@@ -9,7 +9,7 @@
     *   Qualifying Round: 150+ teams
     *   Final Round: 40 qualifying teams
 
-## 🏆 Our  Performance
+## Our  Performance
 
 Our team demonstrated strong and consistent performance across both challenging stages of the Cryovault CTF:
 
@@ -21,15 +21,15 @@ Our team demonstrated strong and consistent performance across both challenging 
     *   **Rank:** 26th out of the top 40 qualifying teams.
     *   **Achievement:** Maintained a competitive standing against the highest-performing teams in the final stage.
 
-*   **Overall Score:** Our team achieved an approximate total of **1500 points** throughout the competition.
+*   **Overall Score:** Our team achieved an approximate total of **4500 points** throughout the competition.
 
 This strong showing highlights our team's effective collaboration, diverse skill set, and ability to execute under pressure. The challenges were well-designed, particularly in the cryptography, reverse engineering, and OSINT categories where I primarily focused.
 
-## ✨ Key Learning Moment: Mastering Complex Cryptography and Binary Analysis
+## Key Learning Moment: Mastering Complex Cryptography and Binary Analysis
 
 While no single challenge stands out as an "ASL equivalent," the competition was rich with deeply technical problems in my focus areas. A key learning moment came from navigating the intricate **Cryptography** challenges which required not just recognizing ciphers, but often understanding their subtle implementation flaws or mathematical underpinnings for successful exploitation. Similarly, **Reverse Engineering** tasks often involved complex binary analysis, requiring meticulous decompilation and debugging to uncover hidden logic or bypass protection mechanisms. These categories consistently pushed my technical boundaries and demanded a blend of theoretical knowledge and practical application.
 
-## 🔑 My Contribution & Key Skills
+## My Contribution & Key Skills
 
 I primarily focused on and contributed significantly to the **Cryptography, Reverse Engineering (Rev),** and **OSINT** categories:
 
@@ -51,4 +51,8 @@ I primarily focused on and contributed significantly to the **Cryptography, Reve
 
 
 ## 📊 Assets
-<img width="1777" height="616" alt="Screenshot 2025-11-09 153812" src="https://github.com/user-attachments/assets/7091823d-40da-4b82-bc76-b5c89659d8c5" />
+![WhatsApp Image 2025-11-10 at 17 57 35_6fa4d8d0](https://github.com/user-attachments/assets/5946239f-4733-4ae8-8e8b-a60003b00bf3)
+
+![WhatsApp Image 2025-11-10 at 17 57 36_43608898](https://github.com/user-attachments/assets/55874358-607f-4b81-be02-72c97d3d913d)
+<img width="1228" height="854" alt="image" src="https://github.com/user-attachments/assets/fb32fbdb-0fd5-4ba3-81d1-7d7b0a08b670" />
+
