@@ -2,7 +2,6 @@
 
 Welcome to my logbook of Capture The Flag (CTF) competitions and cybersecurity challenges. This repository serves as a record of the events I've participated in, tracking my journey and growth in the community.
 
-For detailed technical analysis and solutions, please see my separate **[CTF Write-ups Repository](https://github.com/your-username/ctf-writeups)**.
 
 ---
 
