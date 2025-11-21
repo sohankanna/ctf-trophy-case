@@ -1,31 +1,32 @@
-### **MetaCTF Flash CTF September 2025**
+# MetaCTF Flash CTF September 2025
 
-**Date:** September 2025
-<br>
-**Format:** Individual, Online Mini CTF (2-hour duration)
-<br>
-**Result:** Scored 700 points, ranking 97 out of over 550 active teams (1500+ registered).
+- **Date:** September 2025
+- **Format:** Jeopardy-style, Individual CTF (2-hour sprint)
+- **Final Rank:** 97 out of 1500+ registered teams (550+ active)
+- **Score:** 700 points
 
-***
+---
 
-#### **Personal Reflection**
+### Personal Reflection
 
-The latest MetaCTF Flash CTF was a fast-paced and engaging experience. These monthly competitions are designed for a wide range of skill levels, which makes them both accessible and challenging. With a two-hour time limit, the pressure was on to think quickly and efficiently. It was a great opportunity to test my skills across various domains in a high-energy environment. The broad participation, with over 550 active teams, created a vibrant and competitive atmosphere.
+The MetaCTF Flash CTF was a high-speed, two-hour sprint that tested quick thinking and adaptability. Competing individually against a large and active field of over 550 participants was a great way to benchmark my skills in a fast-paced environment. The challenge variety was excellent, providing a well-rounded test of core cybersecurity competencies.
 
-#### **Highlight: A Glimpse into the Past with Xterm**
+### Highlight Moment: The Xterm Graphics Challenge
 
-The most memorable part of this CTF was an "other" challenge that delved into the history of terminal graphics. This unique problem required an understanding of xterm terminal emulation and how graphics were rendered in the past. It was a fascinating and unexpected dive into how early graphical displays worked on text-based terminals, a refreshing change from more conventional challenges.
+The standout moment for me was a unique challenge in the "other" category that was a fascinating dive into computing history. The task involved understanding xterm terminal emulation and how graphics were rendered on terminals in the past, likely referencing technologies like the Tektronix 4014.
 
-#### **What I Learned & Key Takeaways**
+It was a departure from typical CTF problems and required a different kind of investigation—one focused on legacy technology rather than modern exploits. Solving it was a rewarding experience that taught me something entirely new about the fundamentals of how visual information was first displayed in the command-line world.
 
-This CTF was an excellent test of my versatility and problem-solving abilities under pressure.
+### What I Learned & Key Takeaways
 
-*   **Broad Skill Application:** I successfully solved challenges across OSINT, Cryptography, and Web Exploitation, demonstrating a solid foundation in core CTF categories.
-*   **Historical Technical Knowledge:** The xterm challenge was a standout, teaching me about the legacy of terminal emulation and early graphics rendering—a topic not often covered in modern cybersecurity contexts.
-*   **Performance Under Pressure:** The two-hour format honed my ability to quickly analyze problems, prioritize tasks, and execute solutions efficiently.
-*   **Community Scale:** Competing against a large and active field of participants provided a valuable benchmark for my current skill level.
+-   **Broad Versatility:** Successfully solved challenges across OSINT, Cryptography, and Web Exploitation, confirming my ability to apply different skills under time constraints.
+-   **Performance Under Pressure:** The 2-hour time limit was a great exercise in prioritizing tasks, managing time effectively, and making quick, decisive judgments.
+-   **Appreciation for Legacy Tech:** The xterm challenge was a valuable reminder that a deep understanding of technology includes its history. It provided practical insight into terminal emulation that I wouldn't have gained otherwise.
+-   **Problem-Solving Agility:** The rapid-fire nature of the Flash CTF reinforced the need to quickly assess a problem, formulate a hypothesis, and test it without getting bogged down.
 
-#### **Assets**
+### Assets
+
+
 
 Data and screenshots from my participation in the event.
 
