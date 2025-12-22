@@ -4,7 +4,7 @@
 - **Format:** Jeopardy-style, Team CTF
 - **Team:** SJB Institute of Technology
 - **Final Rank:** 221st out of 1014 teams (Top 22%)
-- **Performance:** Solved 29 out of 34 challenges (10,925 Points).
+- **Performance:** Personally got 18 out of 34 flags.
 
 ---
 
