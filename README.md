@@ -7,8 +7,8 @@ Welcome to my logbook of Capture The Flag (CTF) competitions and cybersecurity c
 
 ## 📊 At a Glance
 
-- **Total Events Documented:** 10
-- **Team Competitions:** 6
+- **Total Events Documented:** 11
+- **Team Competitions:** 7
 - **Individual Events:** 4
 - **Best Team Rank:** 5th / ~50 teams
 - **Recent Highlight:** Top 1% finish (13th) in CloudSEK CTF 2025
@@ -21,6 +21,7 @@ This table highlights the events for which I have detailed records, certificates
 
 | Date       | Event Name                               | Team Name        | Rank / Score              | View Details & Proof                                          |
 | :--------- | :--------------------------------------- | :--------------- | :------------------------ | :------------------------------------------------------------ |
+| **Dec 2025** | **HTB University CTF 2025**                    | `SJBIT`| `221th / 1014`           | [View Details](./2025-HTB-UniversityCTF-TinselTrouble/README.md)                 |
 | **Dec 2025** | **CloudSEK CTF 2025**                    | `N/A (Individual)`| `13th / ~1600`           | [View Details](./2025-CloudSEK-CTF/README.md)                 |
 | **Nov 2025** | **Flash CTF (MetaCTF)**                  | `ZeroCrypt(Individual)`      | `97th / ~1500`            | [View Details](./2025-FlashCTF-MetaCTF(November)/README.md)   |
 | **Nov 2025** | **Cryovault CTF (PES ISFCR Club)**       | `Diamond_Dogs`   | `Q: 37/150+, F: 26/40`    | [View Details](./2025-Cryovault-CTF/README.md)                |
