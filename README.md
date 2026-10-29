@@ -7,9 +7,9 @@ Welcome to my logbook of Capture The Flag (CTF) competitions and cybersecurity c
 
 ## 📊 At a Glance
 
-- **Total Events Documented:** 12
+- **Total Events Documented:** 13
 - **Team Competitions:** 8
-- **Individual Events:** 4
+- **Individual Events:** 5
 - **Best Team Rank:** 5th / ~50 teams
 - **Best Individual Rank:** 13th / ~1600 (Top 1%) in CloudSEK CTF 2025
 - **Recent Highlight:** 325th / 6,744 teams (Top 5%) in HTB Cyber Apocalypse CTF 2026
@@ -22,6 +22,7 @@ This table highlights the events for which I have detailed records, certificates
 
 | Date       | Event Name                               | Team Name        | Rank / Score              | View Details & Proof                                          |
 | :--------- | :--------------------------------------- | :--------------- | :------------------------ | :------------------------------------------------------------ |
+| **Oct 2026** | **KPMG Cyber Threat Flag 2026 (Campus Edition)** | `N/A (Individual)` | `470 pts / 27 solves` | [View Details & Writeups](./2026-KPMG-CTF/README.md)      |
 | **Jul 2026** | **HTB Cyber Apocalypse CTF 2026: The Salt Crown** | `Diamond_Dogs` | `325th / 6744`            | [View Details](./2026-HTB-CyberApocalypse-SaltCrown/README.md) |
 | **Dec 2025** | **HTB University CTF 2025**              | `SJBIT`          | `221st / 1014`            | [View Details](./2025-HTB-UniversityCTF-TinselTrouble/README.md) |
 | **Dec 2025** | **CloudSEK CTF 2025**                    | `N/A (Individual)`| `13th / ~1600`           | [View Details](./2025-CloudSEK-CTF/README.md)                 |
