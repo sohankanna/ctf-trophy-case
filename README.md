@@ -7,11 +7,12 @@ Welcome to my logbook of Capture The Flag (CTF) competitions and cybersecurity c
 
 ## 📊 At a Glance
 
-- **Total Events Documented:** 11
-- **Team Competitions:** 7
+- **Total Events Documented:** 12
+- **Team Competitions:** 8
 - **Individual Events:** 4
 - **Best Team Rank:** 5th / ~50 teams
-- **Recent Highlight:** Top 1% finish (13th) in CloudSEK CTF 2025
+- **Best Individual Rank:** 13th / ~1600 (Top 1%) in CloudSEK CTF 2025
+- **Recent Highlight:** 325th / 6,744 teams (Top 5%) in HTB Cyber Apocalypse CTF 2026
 
 ---
 
@@ -21,9 +22,10 @@ This table highlights the events for which I have detailed records, certificates
 
 | Date       | Event Name                               | Team Name        | Rank / Score              | View Details & Proof                                          |
 | :--------- | :--------------------------------------- | :--------------- | :------------------------ | :------------------------------------------------------------ |
-| **Dec 2025** | **HTB University CTF 2025**                    | `SJBIT`| `221th / 1014`           | [View Details](./2025-HTB-UniversityCTF-TinselTrouble/README.md)                 |
+| **Jul 2026** | **HTB Cyber Apocalypse CTF 2026: The Salt Crown** | `Diamond_Dogs` | `325th / 6744`            | [View Details](./2026-HTB-CyberApocalypse-SaltCrown/README.md) |
+| **Dec 2025** | **HTB University CTF 2025**              | `SJBIT`          | `221st / 1014`            | [View Details](./2025-HTB-UniversityCTF-TinselTrouble/README.md) |
 | **Dec 2025** | **CloudSEK CTF 2025**                    | `N/A (Individual)`| `13th / ~1600`           | [View Details](./2025-CloudSEK-CTF/README.md)                 |
-| **Nov 2025** | **Flash CTF (MetaCTF)**                  | `ZeroCrypt(Individual)`      | `97th / ~1500`            | [View Details](./2025-FlashCTF-MetaCTF(November)/README.md)   |
+| **Nov 2025** | **Flash CTF (MetaCTF)**                  | `N/A (Individual)`| `97th / ~1500`           | [View Details](./2025-FlashCTF-MetaCTF(November)/README.md)   |
 | **Nov 2025** | **Cryovault CTF (PES ISFCR Club)**       | `Diamond_Dogs`   | `Q: 37/150+, F: 26/40`    | [View Details](./2025-Cryovault-CTF/README.md)                |
 | **Aug 2025** | **Lexington Informatics Tournament CTF** | `Diamond_Dogs`   | `74th / 1000`             | [View Details](./2025-LIT-CTF/README.md)                      |
 | **Jul 2025** | **KPMG Cyber CTF 2025**                  | `N/A (Individual)`| `Completed / 105 pts`    | [View Details](./2025-KPMG-CTF/README.md)                     |
